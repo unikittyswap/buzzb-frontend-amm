@@ -24,12 +24,12 @@ const config: MenuEntry[] = [
   {
     label: 'Farms',
     icon: 'FarmIcon',
-    href: 'https://app.buzzb.finance/farms'
+    href: ''
   },
   {
-    label: 'Nests',
+    label: 'Pools',
     icon: 'PoolIcon',
-    href: 'https://app.buzzb.finance/nests'
+    href: ''
   },
   // {
   //   label: 'Lottery',
@@ -46,7 +46,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinMarketCap',
-        href: '',
+        href: 'https://coinmarketcap.com/currencies/goose-finance/',
       },
     ]
   },

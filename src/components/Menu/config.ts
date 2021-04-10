@@ -46,7 +46,7 @@ const config: MenuEntry[] = [
       },
       {
         label: 'CoinMarketCap',
-        href: 'https://coinmarketcap.com/currencies/goose-finance/',
+        href: '',
       },
     ]
   },

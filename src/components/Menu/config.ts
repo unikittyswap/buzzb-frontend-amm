@@ -4,7 +4,7 @@ const config: MenuEntry[] = [
   {
     label: 'Home',
     icon: 'HomeIcon',
-    href: 'https://www.buzzb.finance/'
+    href: 'https://app.buzzb.finance/'
   },
   {
     label: 'Trade',

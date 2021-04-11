@@ -22,12 +22,12 @@ const config: MenuEntry[] = [
     ]
   },
   {
-    label: 'Farms',
+    label: 'Farms Hives',
     icon: 'FarmIcon',
     href: 'https://app.buzzb.finance/farms'
   },
   {
-    label: 'Pools',
+    label: 'Hives',
     icon: 'PoolIcon',
     href: 'https://app.buzzb.finance/nests'
   },
